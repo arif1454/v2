@@ -422,9 +422,14 @@ row {
   -webkit-box-shadow: 0 0 0 .2rem rgba(33, 37, 41, .1) !important;
   box-shadow: 0 0 0 .2rem rgba(33, 37, 41, .1) !important
 }
-@media (max-width: 325px){
+@media (max-width: 375px){
   .btn-xl{
     padding:0.45rem 0.9rem;
+    font-size: 12px
+   }
+}@media (max-width: 768px){
+  .btn-xl{
+    padding:0.7rem 1.2rem;
     font-size: 12px
    }
 }

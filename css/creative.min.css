@@ -62,7 +62,13 @@ h1, h2, h3, h4, h5, h6 {
 section {
   padding: 8rem 0
 }
+@@media (max-width 325px) {
+  section.section-heading{
+    font-size: 0.5rem
+  }
+}
 
+}
 .section-heading {
   margin-top: 0
 }
@@ -252,9 +258,7 @@ header.masthead p {
   font-weight: 300;
 }
 
-row {
-  margin-top: 150px;
-}
+
 
 ;
 

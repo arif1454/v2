@@ -18,7 +18,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: rgba(237,67,55)
+  border-color: #0C80A4
 }
 
 hr.light {
@@ -26,17 +26,17 @@ hr.light {
 }
 
 a {
-  color: rgba(237,67,55);
+  color: #0C80A4;
   -webkit-transition: all .2s;
   transition: all .2s
 }
 
 a:hover {
-  color: rgba(237,67,55)
+  color: #0C80A4
 }
 
 .border {
-  border: 5px solid rgba(237,67,55);
+  border: 5px solid #0C80A4;
   padding: 15px 10px;
   margin: 15px 10px;
 }
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-primary {
-  background-color: rgba(237,67,55) !important
+  background-color: #0C80A4 !important
 }
 
 
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, .7)
+  color: rgba(255, 255, 255, .7);
 }
 
 section {
@@ -111,12 +111,12 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: rgba(237,67,55);
+  color: #0C80A4;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: rgba(237,67,55)
+  color: #0C80A4
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
@@ -127,11 +127,11 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-  color: rgba(237,67,55)
+  color: #0C80A4
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
-  color: rgba(237,67,55) !important;
+  color: #0C80A4 !important;
   background-color: transparent
 }
 
@@ -167,10 +167,10 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: rgba(237,67,55);
+    color: #0C80A4;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: rgba(237,67,55);
+    color: #0C80A4;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -178,7 +178,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: rgba(237,67,55);
+    color: #0C80A4;
   }
 }
 
@@ -215,11 +215,11 @@ img::-moz-selection {
   }
 
   #mainNav.navbar-shrink .navbar-brand {
-    color: rgba(237,67,55)
+    color: #0C80A4
   }
 
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: rgba(237,67,55)
+    color: #0C80A4
   }
 
   #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
@@ -227,7 +227,7 @@ img::-moz-selection {
   }
 
   #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
-    color: rgba(237,67,55)
+    color: #0C80A4
   }
 }
 
@@ -392,7 +392,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: rgba(237,67,55) !important
+  color: #0C80A4 !important
 }
 
 .btn {
@@ -408,8 +408,8 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: rgba(237,67,55);
-  border-color: rgba(237,67,55)
+  background-color: #0C80A4;
+  border-color: #0C80A4
 }
 .btn-secondary {
   background-color: rgba(50,50,50);

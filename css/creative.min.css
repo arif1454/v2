@@ -416,7 +416,7 @@ header.masthead p {
   background-color: #1f6a96 !important
 }
 
-.btn-primary:active, .btn-primary:focus {
+/* .btn-primary:active, .btn-primary:focus {
   -webkit-box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5) !important;
   box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5) !important
-}
+} */
